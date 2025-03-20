@@ -1,12 +1,32 @@
-## Hi there 👋
+# 📌 Repository Structure & Guidelines
 
-<!--
+## 📂 Struttura della Repository
+Ogni repository è dedicata a un progetto specifico e segue la seguente convenzione di nomenclatura:
 
-**Here are some ideas to get you started:**
+```
+it.softmaint.<nome_azienda>.<nome_applicativo>
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+All'interno della repository verrà rilasciato il **codice sorgente** del progetto.
+
+## 📜 Documentazione del Progetto
+Ogni progetto deve includere la seguente documentazione:
+- **Descrizione del progetto**
+- **Task richieste** (to-do list)
+- **Task completate**
+- **Bug trovati** e **Bug risolti**
+- **Guida alla compilazione e utilizzo**
+
+### 📁 Projects
+La sezione **Projects** è utilizzata per la gestione delle attività relative al progetto. Qui è possibile:
+- Organizzare e visualizzare lo stato delle attività
+- Assegnare task ai membri del team
+- Monitorare i progressi dello sviluppo
+
+### 📖 Wikis
+La sezione **Wikis** è utilizzata per raccogliere informazioni aggiuntive sul progetto, come:
+- Guide dettagliate
+- Best practices
+- FAQ e soluzioni a problemi comuni
+
+⚡ **Assicurati di mantenere aggiornata la documentazione per facilitare la collaborazione!**
